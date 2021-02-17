@@ -1,1 +1,1 @@
-# Reversi-Implementation-with-Minimax-Algorithm
+# Artificial Intelligence
